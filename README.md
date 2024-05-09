@@ -1,5 +1,5 @@
 ### Цель: Создание механизма напоминаний с использованием языковой модели.
-### Стек:Python, Django, Aiogram, Asyncio, Celery, Redis
+### Стек:Python, Django, Aiogram, Asyncio, Celery, Redis,OpenAI Api
 
 ## Подготовка и запуск проекта
 #### Шаг 1. Клонируйте репозиторий себе на компьютер
