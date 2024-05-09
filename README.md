@@ -8,12 +8,13 @@
 git clone https://github.com/Hovo-93/Reminder.git
 ```
 #### Шаг 2. Создайте в клонированной директории файл .env
+```
 Пример:
 
 BOT_TOKEN=your_bot_key
 MODEL=gpt-3.5-turbo
 OPENAI_API_KEY= your_openai_api_key
-
+```
 #### Шаг 3.Создаем и применяем миграции:
 ```python
     python manage.py makemigrations
